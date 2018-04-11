@@ -42,3 +42,9 @@ p,li{
     border-bottom: 2px solid black;
     border-top: 2px solid black;
 }
+.bgcon{
+    padding-top: 10px;
+    background: url('img/p4.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color:white;
+}
